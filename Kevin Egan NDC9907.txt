@@ -1,0 +1,2 @@
+BlackjackGame.zip -> Contains The player and dealer Programs in VB
+BlackjackManuals.zip -> Contains The User and Technicl Manuals
